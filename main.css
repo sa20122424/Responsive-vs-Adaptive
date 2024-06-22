@@ -1,0 +1,116 @@
+@media only screen and (    max-width: 1496px) {
+    .body {
+        background-color: wheat;
+    }
+    .box1{
+        width: 250px;
+        height: 250px;
+        background-color: black;
+        color: white;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+    }
+
+}
+
+.body {
+    background-color: blue;
+}
+.box1{
+    width: 250px;
+    height: 250px;
+   
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.all-box{
+    gap: 30px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+@media only screen and (    max-width: 805px) {
+    .body {
+        background-color: wheat;
+    }
+    .box1{
+        width: 150px;
+        height: 150px;
+        background-color: rgb(12, 245, 51);
+        color: white;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+    }  
+    .all-box{
+        display: flex;
+        width: 100%;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        gap: 50px;
+    }
+}
+@media only screen and (    max-width: 1205px) {
+    .body {
+        background-color: rgb(10, 247, 10);
+    }
+   
+    .all-box{
+        display: flex;
+        width: 100%;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+}
+
+
+@media only screen and (    max-width: 1047px) {
+    .body {
+        background-color: rgb(16, 15, 15);
+    }
+    .box1{
+        width: 300px;
+        height: 250px;
+        background-color: rgb(234, 17, 17);
+        color: rgb(19, 227, 78);
+        justify-content: center;
+        display: flex;
+        align-items: center;
+    }
+
+}
+@media only screen and (    max-width: 952px) {
+    .body {
+        background-color: rgba(16, 10, 46, 0.629);
+    }
+    .box1{
+        width: 250px;
+        height: 250px;
+        background-color: rgb(64, 17, 234);
+        color: rgb(19, 227, 78);
+        justify-content: center;
+        display: flex;
+        align-items: center;
+    }
+
+}
+@media only screen and (    max-width: 817px) {
+    .body {
+        background-color: rgb(162, 10, 31);
+    }
+    .box1{
+        width: 250px;
+        height: 250px;
+        background-color: rgb(25, 9, 83);
+        color: rgb(68, 75, 70);
+        justify-content: center;
+        display: flex;
+        align-items: center;
+    }
+
+}
+
